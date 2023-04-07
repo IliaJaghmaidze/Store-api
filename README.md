@@ -13,11 +13,11 @@ npm install && npm start
 
 #### Query examples
 
-/products?name=wooden
-/products?company=ikea
-/products?featured=true
-/products?sort=-name,price
-/products?fields=company,rating
+- /products?name=wooden
+- /products?company=ikea
+- /products?featured=true
+- /products?sort=-name,price
+- /products?fields=company,rating
 
 #### Routers
 
