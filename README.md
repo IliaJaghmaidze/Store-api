@@ -11,6 +11,14 @@ npm install && npm start
 3. Setup .env in the root
 4. Add MONGO_URI with correct value
 
+#### Query examples
+
+/products?name=wooden
+/products?company=ikea
+/products?featured=true
+/products?sort=-name,price
+/products?fields=company,rating
+
 #### Routers
 
 - products.js
